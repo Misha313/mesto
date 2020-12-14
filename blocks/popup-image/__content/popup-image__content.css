@@ -1,0 +1,15 @@
+@import url(./__image/popup-image__image.css);
+
+.popup-image__content {
+
+  border-radius: 10px;
+  position: relative;
+  box-sizing: border-box;
+  padding: 10px;
+}
+
+@media screen and (max-width: 540px) {
+  .popup-image__content {
+    width: calc(100% - 60px);
+  }
+}
