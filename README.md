@@ -1,8 +1,8 @@
-# mesto-frontend
+# mesto
 
 Место - это сервис, где люди могут делиться фотографиями своих любимых мест.
 
-[Mesto на gh-pages](https://misha313.github.io/mesto-frontend)
+[Mesto на gh-pages](https://misha313.github.io/mesto)
 
 ## Используемые технологии
 
